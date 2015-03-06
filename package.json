@@ -1,0 +1,23 @@
+{
+  "name": "awstypes",
+  "description": "Get AWS EC2 instance types and AWS regions.",
+  "version": "1.0.0",
+
+  "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
+  "bugs": "https://github.com/pdehaan/awstypes/issues",
+  "devDependencies": {
+    "eslint": "0.15.1"
+  },
+  "homepage": "https://github.com/pdehaan/awstypes",
+  "keywords": [
+    "aws",
+    "ec2",
+    "regions"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "repository": "pdehaan/awstypes.git",
+  "scripts": {
+    "test": "eslint ."
+  }
+}

@@ -3,8 +3,8 @@
 Get AWS EC2 instance types and AWS regions.
 
 ## Sources:
-- http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
-- http://aws.amazon.com/ec2/instance-types/
+- <http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html>
+- <http://aws.amazon.com/ec2/instance-types/>
 
 ## API:
 - `regions` - An object containing AWS zones (as keys) and friendly names (as values).
